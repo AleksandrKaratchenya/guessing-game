@@ -9,7 +9,7 @@ this.max=max;
    
     guess() {
 //
-return (this.max+this.min)/2|0 +1;
+return (this.max+this.min)/2|0 +3;
  
    }
 
